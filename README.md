@@ -17,7 +17,7 @@
 | :--- | :--- | :--- | :--- |
 | **創作者主站** | **紫楓官方作品集** | https://ai-purplemaple.com/ | AI 繪圖作品、[看板娘白瀬アイリ介紹](https://ai-purplemaple.com/aily.html)、[原創 AI 音樂](https://ai-purplemaple.com/music.html)（繁／日雙語） |
 | **程式教學** | **Python 資料結構與演算法** | https://learn.ai-purplemaple.com/ | 從零開始互動教學：[Ch.01 陣列與單向鏈結串列](https://learn.ai-purplemaple.com/ch01.html) ～ [Ch.07 堆積與 Top-K](https://learn.ai-purplemaple.com/ch07.html)（[原始碼](https://github.com/tbpfs/learning)） |
-| **國小教育** | **時空守護者｜國小八大國度** | https://edu.ai-purplemaple.com/ | 108 課綱 1–6 年級全科免費闖關、低年級注音朗讀、[900 篇段考互動攻略](https://edu.ai-purplemaple.com/guides/)、[數學結晶塔](https://edu.ai-purplemaple.com/math/) |
+| **國小教育** | **時空守護者｜國小八大國度** | https://edu.ai-purplemaple.com/ | 108 課綱 1–6 年級全科免費闖關、低年級注音朗讀、[近 900 篇段考互動攻略](https://edu.ai-purplemaple.com/guides/)、[數學結晶塔](https://edu.ai-purplemaple.com/math/) |
 | **3D 網頁遊戲** | **府城保衛戰 3D FPS** | https://fps.ai-purplemaple.com/ | Three.js 台南林百貨・赤崁樓・安平古堡 3D 巷戰射擊，免安裝支援 PC／手機（[日本語版](https://fps.ai-purplemaple.com/?lang=ja)） |
 | **機甲音遊** | **星界斷章：星律前奏曲** | https://astral.ai-purplemaple.com/ | 致敬機戰 OG 精神續作的原創機甲節奏音遊，收錄 65 首戰歌與全球排行榜 |
 | **二次元百科** | **WaifuScan AI 六維角色百科** | https://waifu.ai-purplemaple.com/zh-tw | 四語二次元角色性格雷達圖百科、[五題靈魂波長診斷測驗](https://waifu.ai-purplemaple.com/zh-tw/quiz/soul-wavelength-scan) |
