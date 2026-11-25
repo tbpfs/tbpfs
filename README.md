@@ -1,7 +1,7 @@
-# 🍁 紫楓 Purple Maple（王紫楓 / 	bpfs）
+# 🍁 紫楓 Purple Maple（王紫楓 / tbpfs）
 
 台灣軟體工程師、Python 演算法教學者、AI 繪師、Suno 原創音樂製作與原創輕小說創作者。  
-原創紅藍異色瞳看板娘：**白瀬アイリ（艾莉 / Aily）** — 銀白微藍長髮、紅藍異色瞳（觀看者左側緋紅 #fb7185・右側蒼藍 #38bdf8）、黑粉貓耳連帽外套。
+原創紅藍異色瞳看板娘：**白瀬アイリ（艾莉 / Aily）** — 銀白微藍長髮、紅藍異色瞳（觀看者左側緋紅 `#fb7185`・右側蒼藍 `#38bdf8`）、黑粉貓耳連帽外套。
 
 - 🌐 **官方主站**：[紫楓（王紫楓）官方網站](https://ai-purplemaple.com/)（https://ai-purplemaple.com/）
 - 🐦 **X (Twitter)**：[@tbpfs1](https://x.com/tbpfs1)
@@ -12,14 +12,16 @@
 
 ---
 
-## 🚀 公開免費網站與互動作品總覽 (*.ai-purplemaple.com)
+## 🚀 公開免費網站與純本地工具總覽 (`*.ai-purplemaple.com`)
 
 | 領域 | 站點名稱 | 正式入口 | 特色與推薦深層頁 |
 | :--- | :--- | :--- | :--- |
-| **創作者主站** | **紫楓官方網站｜王紫楓 (Purple Maple)** | [紫楓官方網站](https://ai-purplemaple.com/) | AI 繪圖作品、[看板娘白瀬アイリ設定集](https://ai-purplemaple.com/aily.html)、[原創 AI 音樂](https://ai-purplemaple.com/music.html)、[一人 AI 建站實況週報](https://ai-purplemaple.com/build-in-public.html)（繁／日雙語） |
+| **創作者主站** | **紫楓官方網站｜王紫楓 (Purple Maple)** | [ai-purplemaple.com](https://ai-purplemaple.com/) | AI 繪圖作品、[看板娘白瀬アイリ設定集](https://ai-purplemaple.com/aily.html)、[原創 AI 音樂](https://ai-purplemaple.com/music.html)、[一人 AI 建站實況週報](https://ai-purplemaple.com/build-in-public.html)（繁／日雙語） |
+| **跨境電商／廣告 ROI** | **MarginLedger 手續費與 ROI 計算台** | [margin.ai-purplemaple.com](https://margin.ai-purplemaple.com/) | 英／日／繁中三語 45 頁純本地會計運算：[eBay](https://margin.ai-purplemaple.com/tools/ebay-fee-calculator/)・[Etsy](https://margin.ai-purplemaple.com/tools/etsy-fee-calculator/)・[Amazon FBA](https://margin.ai-purplemaple.com/tools/amazon-fba-calculator/)・[蝦皮／Mercari／BOOTH](https://margin.ai-purplemaple.com/zh-tw/tools/asia-marketplace-fee-calculator/)・[CPM](https://margin.ai-purplemaple.com/tools/cpm-calculator/)・[ROAS](https://margin.ai-purplemaple.com/tools/roas-calculator/)・[日本適格發票](https://margin.ai-purplemaple.com/ja/tools/vat-sales-tax-calculator/)（[公式驗證庫](https://github.com/tbpfs/marketplace-fee-specs)） |
+| **創作者規格工作坊** | **SpecFrame Studio 安全區與轉檔工作坊** | [frame.ai-purplemaple.com](https://frame.ai-purplemaple.com/) | 英／日／繁中三語 57 頁（18 款零上傳工具）：[TikTok 安全區](https://frame.ai-purplemaple.com/tools/tiktok-safe-zone/)・[LINE／Steam 批次 ZIP](https://frame.ai-purplemaple.com/zh-tw/tools/line-sticker-resizer/)・[條碼產生器](https://frame.ai-purplemaple.com/tools/barcode-generator/)・[SVG→PNG](https://frame.ai-purplemaple.com/tools/svg-to-png-converter/)・[AVIF→PNG](https://frame.ai-purplemaple.com/tools/avif-to-png-converter/)・[YouTube 縮圖 A/B](https://frame.ai-purplemaple.com/tools/youtube-thumbnail-tester/)（[規格驗證庫](https://github.com/tbpfs/creator-safe-zone-specs)） |
+| **投資量化數學** | **MapleQuant 紫楓量化實驗室** | [invest.ai-purplemaple.com](https://invest.ai-purplemaple.com/) | 繁／日／英／簡四語 101 頁離線風控數學：[美股選擇權損益](https://invest.ai-purplemaple.com/en/tools/options-profit-calculator/)・[Coast FIRE](https://invest.ai-purplemaple.com/en/tools/coast-fire-calculator/)・[部位規模](https://invest.ai-purplemaple.com/tools/position-size/)・[台日美稅費／新 NISA](https://invest.ai-purplemaple.com/ja/tools/nisa-simulator/)（純數學教育，非投資建議 · [測試向量庫](https://github.com/tbpfs/quant-math-test-vectors)） |
 | **原創小說** | **紫楓原創有聲小說庫** | [novel.ai-purplemaple.com](https://novel.ai-purplemaple.com/) | 多流派原創輕小說 × 雙模不斷音原聲帶 × Podcast 有聲劇 × 2D 動態漫三合一閱讀器 |
 | **程式教學** | **紫楓 Python 資料結構與演算法** | [learn.ai-purplemaple.com](https://learn.ai-purplemaple.com/) | 從零開始互動教學：[Ch.01 陣列與單向鏈結串列](https://learn.ai-purplemaple.com/ch01.html) ～ [Ch.07 堆積與 Top-K](https://learn.ai-purplemaple.com/ch07.html)（[原始碼](https://github.com/tbpfs/learning)） |
-| **投資量化** | **MapleQuant 紫楓量化實驗室** | [invest.ai-purplemaple.com](https://invest.ai-purplemaple.com/) | 繁／日／英三語零註冊離線投資風控、部位計算、交易紀律 YAML 與台日美 ETF 參數對決沙盒（純數學教育，非投資建議） |
 | **AI 評測** | **TokenBench Lab LLM 計費雷達** | [radar.ai-purplemaple.com](https://radar.ai-purplemaple.com/) | 每日同步 LiteLLM 官方模型計價表，提供百萬 Token 月費試算與模型選型實測報告 |
 | **國小教育** | **時空守護者｜國小八大國度** | [edu.ai-purplemaple.com](https://edu.ai-purplemaple.com/) | 108 課綱 1–6 年級全科免費無廣告闖關、低年級注音朗讀、[近 900 篇段考互動攻略](https://edu.ai-purplemaple.com/guides/) |
 | **3D 網頁遊戲** | **府城保衛戰 3D FPS** | [fps.ai-purplemaple.com](https://fps.ai-purplemaple.com/) | Three.js 台南林百貨・赤崁樓・安平古堡 3D 巷戰射擊，免安裝支援 PC／手機（[開發誌](https://ai-purplemaple.com/devlog-tainan-fps.html)） |
@@ -31,7 +33,10 @@
 
 ---
 
-## 🛠️ 開源專案
+## 🛠️ 開源專案與可獨立驗證規格庫（Open-Spec & Verifiable Math）
 
-- [	bpfs/learning](https://github.com/tbpfs/learning) — Python 資料結構、演算法與物件導向基礎範例、單元測試與靜態教學站建置腳本
-- [	bpfs/pm-secops-workflows](https://github.com/tbpfs/pm-secops-workflows) — Zero-Secret GitHub Actions DevSecOps 與 Cloud Run WIF 可重複使用工作流
+- **[tbpfs/marketplace-fee-specs](https://github.com/tbpfs/marketplace-fee-specs)** — Open 2026 e-commerce marketplace fee reference JSON (eBay / Etsy / PayPal / Stripe / Amazon FBA / Mercari / BOOTH / Shopee) & Node.js verification test vectors backing [margin.ai-purplemaple.com](https://margin.ai-purplemaple.com/)
+- **[tbpfs/creator-safe-zone-specs](https://github.com/tbpfs/creator-safe-zone-specs)** — Open 2026 platform UI safe-zone coordinates & creator asset specs (TikTok / Shorts / Reels / Steam / LINE / Chrome Web Store / YouTube Thumbnail) with automated invariant checks backing [frame.ai-purplemaple.com](https://frame.ai-purplemaple.com/)
+- **[tbpfs/quant-math-test-vectors](https://github.com/tbpfs/quant-math-test-vectors)** — Open educational financial math test vectors (Position Sizing, Half-Kelly, Drawdown Recovery, Coast FIRE PV, 100-Share Options Payoff) backing [invest.ai-purplemaple.com](https://invest.ai-purplemaple.com/)
+- **[tbpfs/learning](https://github.com/tbpfs/learning)** — Python 資料結構、演算法與物件導向基礎範例、單元測試與靜態教學站建置腳本
+- **[tbpfs/pm-secops-workflows](https://github.com/tbpfs/pm-secops-workflows)** — Zero-Secret GitHub Actions DevSecOps 與 Cloud Run WIF 可重複使用工作流
